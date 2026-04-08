@@ -4,9 +4,8 @@
 
 **i build things. sometimes they work.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanwarsinghsandhu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/kanwar-sandhu0911/))
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:Kanwar.ss779@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](#)
 
 </div>
 
@@ -19,7 +18,7 @@ const kanwar = {
   building:   ["AI tools", "cloud systems", "things that don't exist yet"],
   stack:      ["TypeScript", "Python", "AWS", "React", "Docker", "Go"],
   obsessions: ["clean architecture", "zero downtime", "that one bug at 2am"],
-  bonus:      ["hackathon winner", "team lead", "fragrance nerd 🌸"],
+  bonus:      ["hackathon winner", "team lead", "fragrance nerd"],
 };
 ```
 
