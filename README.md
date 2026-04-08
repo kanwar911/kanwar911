@@ -4,7 +4,7 @@
 
 **i build things. sometimes they work.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/kanwar-sandhu0911/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanwar-sandhu0911/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:Kanwar.ss779@gmail.com)
 
 </div>
@@ -17,7 +17,7 @@ const kanwar = {
   currently:  "Software Dev @ Seneca · 4.0 GPA",
   building:   ["AI tools", "cloud systems", "things that don't exist yet"],
   stack:      ["TypeScript", "Python", "AWS", "React", "Docker", "Go"],
-  obsessions: ["clean architecture", "zero downtime", "that one bug at 2am"],
+  obsessions: ["clean architecture", "zero downtime", "stakeholder satisfaction"],
   bonus:      ["hackathon winner", "team lead", "fragrance nerd"],
 };
 ```
