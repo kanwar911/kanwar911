@@ -5,8 +5,7 @@
 **i build things. sometimes they work.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kanwar-sandhu0911/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:Kanwar.ss779@gmail.com)
-
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=Kanwar.ss779@gmail.com)
 </div>
 
 ---
